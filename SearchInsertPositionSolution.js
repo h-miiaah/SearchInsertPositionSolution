@@ -16,5 +16,6 @@
 
 - We iterate through the array and check if the target is less than or equal to the current element.
 - If it is, we return the current position.
+- If it isn’t, we continue iterating through the array.
 
 */
