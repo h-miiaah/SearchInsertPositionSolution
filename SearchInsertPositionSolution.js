@@ -11,3 +11,10 @@
       }
     return nums.length;
 };
+
+/*
+
+- We iterate through the array and check if the target is less than or equal to the current element.
+
+
+*/
