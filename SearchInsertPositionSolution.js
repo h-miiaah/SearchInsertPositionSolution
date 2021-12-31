@@ -9,4 +9,5 @@
             return position;
           }
       }
+    return nums.length;
 };
